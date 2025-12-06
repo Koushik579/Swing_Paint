@@ -43,20 +43,8 @@ java -cp bin swingpaint.Swing_Paint
 
 ## 📁 Project Structure
 
-SwingPaint/
-├─ src/
-│ ├─ swingpaint/
-│ │ ├─ Swing_Paint.java (Main class)
-│ │ ├─ Swing_Paint.form
-│ │ └─ Colorshape.java
-│ └─ img/
-│ └─ (All drawing tool icons)
-├─ build/
-├─ dist/
-├─ nbproject/
-├─ README.md
-├─ .gitignore
-└─ manifest.mf
+
+<img width="286" height="395" alt="Screenshot From 2025-12-06 09-04-59" src="https://github.com/user-attachments/assets/0d179f4d-f659-41fa-b92b-23a18f8f59d3" />
 
 
 ---
@@ -72,7 +60,9 @@ SwingPaint/
 ---
 
 ## 🖼️ Screenshot
-*(Add your screenshot here later)*  
+<img width="1366" height="768" alt="Screenshot From 2025-12-06 08-36-12" src="https://github.com/user-attachments/assets/0cd2d8c3-d644-4926-98ae-df5c4257f189" />
+
+<img width="1366" height="768" alt="Screenshot From 2025-12-06 08-36-59" src="https://github.com/user-attachments/assets/5bf59dfc-9b80-4177-8ddd-cc4779a89ef0" />
 
 
 ---
