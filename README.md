@@ -51,7 +51,7 @@ java -cp bin swingpaint.Swing_Paint
 
 ## 🎯 Learning Objectives
 - Building Java Swing GUI applications  
-- Using custom painting with `Graphics` and `Graphics2D`  
+- Using custom painting with `Graphics2D`  
 - Handling mouse events (`MouseListener`, `MouseMotionListener`)  
 - Managing shapes, colors, tools, and UI state  
 - Understanding NetBeans auto-generated UI code  
